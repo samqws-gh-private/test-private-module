@@ -1,2 +1,4 @@
 gitlab.com/mbharti/greetings v0.0.0-20200914210526-e3fdbf931db4 h1:klAQRruJPZHpsNaICydzDc1gRyYIQaWJCR3LxbPjBP8=
 gitlab.com/mbharti/greetings v0.0.0-20200914210526-e3fdbf931db4/go.mod h1:qAHFwiy/noGoN4D+8TgRFe8WjU0O6Zr7heE4ZMCDJmA=
+gitlab.com/mbharti/greetings v0.0.1 h1:oiiu3vP5DIatgmbnZk8vAYcM2otPAAHM9ySrWlNuQJU=
+gitlab.com/mbharti/greetings v0.0.1/go.mod h1:qAHFwiy/noGoN4D+8TgRFe8WjU0O6Zr7heE4ZMCDJmA=
