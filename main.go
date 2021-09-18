@@ -1,6 +1,6 @@
 package main
 
-import "gitlab.com/mbharti/greetings"
+import "github.com/samqws-gh-private/greetings"
 
 func main () {
 	greetings.Greet()
